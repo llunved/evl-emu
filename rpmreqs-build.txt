@@ -1,0 +1,11 @@
+automake
+bzip2
+cmake
+gcc
+gcc-c++
+gnupg
+make
+openssl-devel
+python3-devel
+tar
+xz
